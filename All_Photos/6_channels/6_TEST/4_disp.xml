@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Real_Tunnels</folder>
+	<filename>4_disp.jpg</filename>
+	<path>C:\Users\JoeyRagheb\University of Bath\Thesis - General\AI_Masters\Bath\Thesis\Images\Real_Tunnels\Burgholztunnel_Nordroehre_Ostportal_2006-03-19_2.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Real_Tunnel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>354</xmin>
+			<ymin>267</ymin>
+			<xmax>1024</xmax>
+			<ymax>675</ymax>
+		</bndbox>
+	</object>
+</annotation>

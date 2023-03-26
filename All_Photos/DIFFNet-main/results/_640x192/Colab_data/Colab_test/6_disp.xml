@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPG_Test</folder>
+	<filename>6_disp.jpeg</filename>
+	<path>C:\Users\JoeyRagheb\Desktop\DIFFNet-main\results\_640x192\Test_results\JPG_Test\6_disp.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1170</width>
+		<height>658</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>painting</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>238</ymin>
+			<xmax>621</xmax>
+			<ymax>644</ymax>
+		</bndbox>
+	</object>
+</annotation>

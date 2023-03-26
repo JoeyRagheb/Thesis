@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TRAIN_1024</folder>
+	<filename>17_disp.jpeg</filename>
+	<path>C:\Users\JoeyRagheb\Desktop\DIFFNet-main\results\_1024x320\TRAIN_1024\17_disp.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>painting</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>631</xmin>
+			<ymin>302</ymin>
+			<xmax>859</xmax>
+			<ymax>495</ymax>
+		</bndbox>
+	</object>
+</annotation>

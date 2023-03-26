@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Test_1024</folder>
+	<filename>3_disp.jpeg</filename>
+	<path>C:\Users\JoeyRagheb\Desktop\DIFFNet-main\results\_1024x320\Test_1024\3_disp.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>780</width>
+		<height>520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>painting</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>131</ymin>
+			<xmax>547</xmax>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+</annotation>

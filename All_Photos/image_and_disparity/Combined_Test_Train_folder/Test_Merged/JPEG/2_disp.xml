@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Test_1024</folder>
+	<filename>2_merged.jpg</filename>
+	<path>C:\Users\JoeyRagheb\Desktop\DIFFNet-main\results\_1024x320\Test_1024\2_merged.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Real_Tunnel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>168</ymin>
+			<xmax>316</xmax>
+			<ymax>309</ymax>
+		</bndbox>
+	</object>
+</annotation>

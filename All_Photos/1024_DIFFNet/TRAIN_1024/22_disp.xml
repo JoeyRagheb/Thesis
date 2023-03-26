@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Real_Tunnels</folder>
+	<filename>22_disp.jpeg</filename>
+	<path>C:\Users\JoeyRagheb\University of Bath\Thesis - General\AI_Masters\Bath\Thesis\Images\Real_Tunnels\tunnel-road-greece-mountains-copy-space_259348-9091.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>1333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Real_Tunnel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>914</xmin>
+			<ymin>632</ymin>
+			<xmax>1637</xmax>
+			<ymax>1118</ymax>
+		</bndbox>
+	</object>
+</annotation>

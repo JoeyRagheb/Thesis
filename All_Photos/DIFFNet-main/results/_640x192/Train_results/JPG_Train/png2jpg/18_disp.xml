@@ -1,0 +1,26 @@
+<annotation>
+	<folder>png2jpg</folder>
+	<filename>18_disp.jpeg</filename>
+	<path>C:\Users\JoeyRagheb\Desktop\DIFFNet-main\results\_640x192\Train_results\JPG_Train\png2jpg\18_disp.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4800</width>
+		<height>2700</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Real_Tunnel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>305</xmin>
+			<ymin>266</ymin>
+			<xmax>4764</xmax>
+			<ymax>2434</ymax>
+		</bndbox>
+	</object>
+</annotation>

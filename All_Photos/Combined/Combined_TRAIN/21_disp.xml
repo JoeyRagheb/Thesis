@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Real_Tunnels</folder>
+	<filename>21_merged.jpg</filename>
+	<path>C:\Users\JoeyRagheb\University of Bath\Thesis - General\AI_Masters\Bath\Thesis\Images\Real_Tunnels\Sveti_Rok_tunnel_-_north_entrance.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2403</width>
+		<height>1802</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Real_Tunnel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>911</xmin>
+			<ymin>460</ymin>
+			<xmax>1872</xmax>
+			<ymax>1118</ymax>
+		</bndbox>
+	</object>
+</annotation>

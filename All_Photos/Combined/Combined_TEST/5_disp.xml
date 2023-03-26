@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Real_Tunnels</folder>
+	<filename>5_merged.jpg</filename>
+	<path>C:\Users\JoeyRagheb\University of Bath\Thesis - General\AI_Masters\Bath\Thesis\Images\Real_Tunnels\dsc05180.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>802</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Real_Tunnel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>267</xmin>
+			<ymin>181</ymin>
+			<xmax>1011</xmax>
+			<ymax>617</ymax>
+		</bndbox>
+	</object>
+</annotation>

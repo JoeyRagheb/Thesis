@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TRAIN_1024</folder>
+	<filename>18_merged.jpg</filename>
+	<path>C:\Users\JoeyRagheb\Desktop\DIFFNet-main\results\_1024x320\TRAIN_1024\18_merged.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4800</width>
+		<height>2700</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Real_Tunnel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>256</ymin>
+			<xmax>4785</xmax>
+			<ymax>2506</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Real_Tunnels</folder>
+	<filename>23_disp.jpeg</filename>
+	<path>C:\Users\JoeyRagheb\University of Bath\Thesis - General\AI_Masters\Bath\Thesis\Images\Real_Tunnels\Tunnel_de_Sinard_en_juillet_2020.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2617</width>
+		<height>1858</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Real_Tunnel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>996</xmin>
+			<ymin>451</ymin>
+			<xmax>2158</xmax>
+			<ymax>1073</ymax>
+		</bndbox>
+	</object>
+</annotation>

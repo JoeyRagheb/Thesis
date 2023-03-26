@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEG</folder>
+	<filename>7_merged.jpg</filename>
+	<path>C:\Users\JoeyRagheb\University of Bath\Thesis - General\AI_Masters\Bath\Thesis\Images\Train\JPEG\522c9cc388444d8d4c6f48400c6b0036--blue-skies-building-art.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>445</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>painting</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>38</ymin>
+			<xmax>583</xmax>
+			<ymax>413</ymax>
+		</bndbox>
+	</object>
+</annotation>

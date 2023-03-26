@@ -1,0 +1,26 @@
+<annotation>
+	<folder>png2jpg</folder>
+	<filename>11_disp.jpeg</filename>
+	<path>C:\Users\JoeyRagheb\Desktop\DIFFNet-main\results\_640x192\Train_results\JPG_Train\png2jpg\11_disp.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>painting</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>225</xmax>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+</annotation>

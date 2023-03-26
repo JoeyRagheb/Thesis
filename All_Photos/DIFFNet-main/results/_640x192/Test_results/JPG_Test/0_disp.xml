@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPG_Test</folder>
+	<filename>0_disp.jpeg</filename>
+	<path>C:\Users\JoeyRagheb\Desktop\DIFFNet-main\results\_640x192\Test_results\JPG_Test\0_disp.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Real_Tunnel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>338</ymin>
+			<xmax>495</xmax>
+			<ymax>592</ymax>
+		</bndbox>
+	</object>
+</annotation>

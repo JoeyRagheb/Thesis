@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEG</folder>
+	<filename>24_disp.jpeg</filename>
+	<path>C:\Users\JoeyRagheb\University of Bath\Thesis - General\AI_Masters\Bath\Thesis\Images\Train\JPEG\WilleE2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1650</width>
+		<height>2062</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>painting</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>591</ymin>
+			<xmax>1650</xmax>
+			<ymax>1571</ymax>
+		</bndbox>
+	</object>
+</annotation>

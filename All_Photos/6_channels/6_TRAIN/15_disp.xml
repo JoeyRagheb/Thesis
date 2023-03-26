@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Real_Tunnels</folder>
+	<filename>15_disp.jpg</filename>
+	<path>C:\Users\JoeyRagheb\University of Bath\Thesis - General\AI_Masters\Bath\Thesis\Images\Real_Tunnels\istockphoto-916117278-612x612.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>408</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Real_Tunnel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>188</xmin>
+			<ymin>170</ymin>
+			<xmax>424</xmax>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+</annotation>

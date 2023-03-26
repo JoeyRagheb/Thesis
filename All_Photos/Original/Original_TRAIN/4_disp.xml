@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEG</folder>
+	<filename>4_disp.jpg</filename>
+	<path>C:\Users\JoeyRagheb\University of Bath\Thesis - General\AI_Masters\Bath\Thesis\Images\Train\JPEG\b770f3ad6002f71f902542a9b17e226c--blue-skies-sky.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>598</width>
+		<height>428</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>painting</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>16</ymin>
+			<xmax>525</xmax>
+			<ymax>382</ymax>
+		</bndbox>
+	</object>
+</annotation>

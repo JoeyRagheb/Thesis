@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEG</folder>
+	<filename>3_disp.jpg</filename>
+	<path>C:\Users\JoeyRagheb\University of Bath\Thesis - General\AI_Masters\Bath\Thesis\Images\Train\JPEG\9e503fdd01f5a7df6e_9226486448_4aea71df64_z.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>780</width>
+		<height>520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>painting</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>212</xmin>
+			<ymin>127</ymin>
+			<xmax>538</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+</annotation>
