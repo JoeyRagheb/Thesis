@@ -27,6 +27,5 @@ Dependencies and versions used for this implementation:
 •	Pytorch     = 0.4.1 
 •	Torchvision = 0.2.1
 
-```shell
-Model Maker object detection can be viewed under the Colab Notebooks folder with each strategy starting in the name of the notebook from 1 through 7.
-```
+
+>Model Maker object detection can be viewed under the Colab Notebooks folder with each strategy starting in the name of the notebook from 1 through 7.
