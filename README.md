@@ -12,4 +12,5 @@
 **Conclusion**: The best strategy to avoid adversarial attacks in the form of optical illusions is to convert DIFFNet’s output into grayscale and adding it as a 4th channel before checking the image for adversarial attacks.
 
 
+![50ms_gif](https://user-images.githubusercontent.com/101679327/230475797-41716c4f-bc39-47c9-8a65-a1c926ec98d9.gif)
 
