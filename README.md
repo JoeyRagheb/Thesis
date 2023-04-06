@@ -16,7 +16,9 @@
 ## Run a DIFFNet and object detection predictions
 
 In order to run a DIFFNet prediction, run:
->test_sample.py
+```shell
+test_sample.py
+```
 
 file in the DIFFNet folder. The following configuration must be added to the IDE to run the file correctly: --image_path assets/.png --model_folder models/ --model_name diffnet_640x192/. The model can be adjusted based off the resolution needed by adjusting the configuration name by replacing diffnet_640x192 with diffnet_1024x320 for a better resolution.
 
@@ -25,4 +27,6 @@ Dependencies and versions used for this implementation:
 •	Pytorch     = 0.4.1 
 •	Torchvision = 0.2.1
 
->Model Maker object detection can be viewed under the Colab Notebooks folder with each strategy starting in the name of the notebook from 1 through 7.
+```shell
+Model Maker object detection can be viewed under the Colab Notebooks folder with each strategy starting in the name of the notebook from 1 through 7.
+```
